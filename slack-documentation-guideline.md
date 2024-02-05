@@ -13,7 +13,7 @@ We’re using Slack to document and share solutions to technical issues. This ap
 ## Template
 
 ```markdown
-- *Problem*: [One-liner of the issue] [Status **Solved** ]
+- *Problem*: [One-liner of the issue] [Status **Solved** / **Not-Solved**]
 
 - *Desciption*: [Short Problem Description]
 - *Solution*: [Brief solution steps]
