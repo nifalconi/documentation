@@ -50,3 +50,13 @@ Bugs can be tricky and vary in complexity. They often require extra investigatio
 ## **Estimating Spikes**
 
 Spikes are used to research a problem or explore a solution. They differ from regular tasks as they aim to gather information, not deliver features. For spikes, avoid using effort or story points for estimation. Instead, time-box them, typically in days, to keep them focused and efficient.
+
+# Personal Insights
+
+The previous information focused on an agnostic framework. Now, I'd like to share some personal insights. Please take these with a grain of salt, as what works for some teams may not necessarily work for others.
+
+- **One-Point Tasks:** For one-point tasks only, you can estimate them to be 3 to 5 hours. This ensures if something goes wrong, the task is still contained within a day. Remember: A programmer isn't just coding—they're also handling PR reviews, attending meetings, and writing documentation.
+
+- **Competitive Underestimation:** When one developer claims a task is easy, others might stay silent to avoid looking less capable. Avoid this.
+
+- **Team Completion:** The best predictor of meeting sprint goals is the length of time a team has worked together. Consider how long a team has been together. New teams might struggle more with completing tasks—it's a normal part of team growth. If the percentage of completion is less than  65% the problem has nothing to do with the devs but the amount of work they have. 
