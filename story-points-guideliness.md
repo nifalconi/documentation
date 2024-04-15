@@ -60,3 +60,5 @@ The previous information focused on an agnostic framework. Now, I'd like to shar
 - **Competitive Underestimation:** When one developer claims a task is easy, others might stay silent to avoid looking less capable. Avoid this.
 
 - **Team Completion:** The best predictor of meeting sprint goals is the length of time a team has worked together. Consider how long a team has been together. New teams might struggle more with completing tasks—it's a normal part of team growth. If the percentage of completion is less than  65% the problem has nothing to do with the devs but the amount of work they have. 
+
+- **Consitency is Everything:** Trust is hard to get and easy to loose. Failing to meet goals is worse than "underperforming". Is better to overestimate than underestimate. Just don't go crazy overestimating everything. That's just stupid. 
