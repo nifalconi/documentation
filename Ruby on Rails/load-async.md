@@ -1,6 +1,9 @@
 # Load Async
 
-![Description of Image](assets/lets-use-load-async.png)
+<p align="center">
+  <img src="assets/lets-use-load-async.png" alt="Description of Image">
+</p>
+
 *Image by Pawel Urbanek.*
 
 ## **Horizontal Scaling of Database Operations**
