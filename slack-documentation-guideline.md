@@ -8,7 +8,7 @@ We’re using Slack to document and share solutions to technical issues. This ap
 
 1. **Sharing an Obscure Solution**: Found something tricky? Post it.
 2. **Summarizing a Group Solution**: Solved something as a team? Share the final outcome.
-3. **You created a Slack Thread asking for help**: At the end of the conversation share the outcome of the solution. 
+3. **You created a Slack Thread asking for help**: At the end of the conversation share the outcome of the solution.
 
 ## Template
 
