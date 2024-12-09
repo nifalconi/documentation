@@ -6,6 +6,21 @@
 
 *Image by Pawel Urbanek.*
 
+## **Table of Contents**
+
+- [Horizontal Scaling of Database Operations](#horizontal-scaling-of-database-operations)
+- [How to Use Them?](#how-to-use-them)
+- [Use Cases](#use-cases)
+  - [Fetching Data in Parallel](#fetching-data-in-parallel)
+  - [Aggregating Data](#aggregating-data)
+  - [Parallelize Expensive Queries](#parallelize-expensive-queries)
+  - [Lazy Loading in Views](#lazy-loading-in-views)
+- [Extras](#extras)
+  - [Order Matters](#order-matters)
+  - [What about not waiting for everything to load (threads)](#what-about-not-waiting-for-everything-to-load)
+- [Extra Async Methods](#are-there-more-async-methods-yes)
+- [References](#references)
+
 ## **Horizontal Scaling of Database Operations**
 
 Starting with Rails 7, we can use queries asynchronously. This is great because, although each query would take the same time individually, running multiple queries simultaneously on different threads reduces the total expected time to that of the longest query.
@@ -132,7 +147,7 @@ puts "Posts: #{posts.size}"       # Resolves second, does not wait for comments
 puts "Comments: #{comments.size}" # Resolves third
 ```
 
-### What about I don’t want to  wait for all the things to load?
+### What about not waiting for everything to load
 
 Remember that this will take as long as the slowest query in the set. However, let's say you want to execute multiple tasks in parallel, inspired by the asynchronous approach that load_async introduced. Here's how you might do that:
 
