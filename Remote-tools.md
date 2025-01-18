@@ -1,13 +1,20 @@
 # Good Tools
 
-## Free
+## Free Tools
+### 1. **Kap**
+- An open-source screen recorder designed specifically for macOS.
+- Built with web technology and provides an easy-to-use interface.
+- Supports various plugins for extended functionality.
 
-Kap: This is an open-source screen recorder built with web technology, specifically for macOS. It provides an easy-to-use interface and supports various plugins for extended functionality
+### 2. **Beekeeper Studio / DBeaver**
+- Excellent tools for viewing and managing your database.
+- Provides a clean, comfortable interface for interacting with data.
 
-Beekeper Studio / DBeaver: Just look at your database nicely and confortably.
+### 3. **Raycast**
+- A powerful, free alternative to Alfred.
+- Streamlines workflows and enhances productivity.
 
-Raycast: an overpowered free version of a Alfred.
-
-## Paid
-
-Cold Turkey: best thing ever to avoid procrastination
+## Paid Tools
+### 1. **Cold Turkey**
+- The ultimate tool for avoiding procrastination.
+- Blocks distractions effectively, helping you stay focused.
