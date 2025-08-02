@@ -40,6 +40,9 @@ int edad;
 cout << "¿Edad? ";
 cin  >> edad;
 
+// concatenar
+cout << arreglo[i] << " " << "hola";
+
 string nombre;
 cin.ignore();          // ← truco: limpia el salto pendiente
 getline(cin, nombre);  // Lee texto con espacios
